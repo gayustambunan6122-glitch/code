@@ -5,7 +5,7 @@
 error_reporting(0);
 session_start();
 
-$correct_password_hash = '$2a$12$1ZNmMjwVGvkz.fREMN5UWer33AfZDgAHSXKVv6D6hfuvJivG9AJNu'; // 'kominfo'
+$correct_password_hash = '$2a$12$1zQVKb7H4KYHvo2UIbQlAea7Pj/vKN02Pj/UPc6hFD6cnBJENul0W'; // 'kominfo'
 
 // --- Autentikasi ---
 if (!isset($_SESSION['auth']) || $_SESSION['auth'] !== true) {
